@@ -104,3 +104,5 @@ Development and contributions
 -----------------------------
 
 Please read the included ``CONTRIBUTING.rst`` file.
+
+Thanks
